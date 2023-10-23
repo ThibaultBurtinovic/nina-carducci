@@ -3,7 +3,7 @@
   "short_name": "Nina Carducci",
   "description": "Portfolio",
   "start_url": "/index.html",
-  "display": "browser",
+  "display": "minimal-ui",
   "background_color": "#ffffff",
   "theme_color": "#F6D2B8",
   "icons": [
