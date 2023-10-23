@@ -1,28 +1,22 @@
 {
-    "name": "Nina Carducci photographe",
-    "short_name": "Nina Carducci",
-    "description": "Portfolio",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#F6D2B8",
-    "icons": [
-        {
-          "src": "/assets/images_compress/nina.png",
-          "sizes": "512x512",
-          "type": "image/png"
-        },
-        {
-          "src": "/assets/images_compress/icon.webp",
-          "sizes": "192x192",
-          "type": "image/webp",
-          "purpose": "maskable"
-        }
-      ]
+  "name": "Nina Carducci photographe",
+  "short_name": "Nina Carducci",
+  "description": "Portfolio",
+  "start_url": "/index.html",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#F6D2B8",
+  "icons": [
+    {
+      "src": "./assets/images_compress/nina512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images_compress/icon.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "maskable"
     }
-
-
-
-
-
-    
+  ]
+}
